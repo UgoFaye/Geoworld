@@ -1,6 +1,6 @@
 <?php
 /**
- * Ce script est composé de fonctions d'exploitation des données
+ * Ce script est composé de fonctions d'exploittion des données
  * détenues pas le SGBDR MySQL utilisées par la logique de l'application.
  *
  * C'est le seul endroit dans l'application où a lieu la communication entre
@@ -59,4 +59,9 @@ function getAllCountries()
     global $pdo;
     $query = 'SELECT * FROM Country;';
     return $pdo->query($query)->fetchAll();
+}
+function getContinents(){
+	global $pdo;
+	$query = 'SELECT DISTINCT continent FROM Country' ;
+	return $pdo->query($query)->fetchAll();
 }
