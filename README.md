@@ -38,5 +38,6 @@ Initié au lycée Léonard de Vinci - 77000 Melun
 
 code lié à la colonne :
 
-![image](https://github.com/UgoFaye/Geoworld/assets/157604000/89a04669-4e33-4583-b2df-160982d52302)
+![image](https://github.com/UgoFaye/Geoworld/assets/157604000/6fec45fb-d740-4d97-bb2a-10514e61ae39)
+
 
