@@ -40,4 +40,10 @@ code lié à la colonne :
 
 ![image](https://github.com/UgoFaye/Geoworld/assets/157604000/6fec45fb-d740-4d97-bb2a-10514e61ae39)
 
+- Ajout de la colonne "Independance"
+![image](https://github.com/UgoFaye/Geoworld/assets/157604000/c5ef2a3b-3f84-4979-84c8-f5555f808bc8)
+
+code lié à la colonne :
+
+![image](https://github.com/UgoFaye/Geoworld/assets/157604000/79e26d94-146e-4f9b-9bfc-3b5e9e96b640)
 
