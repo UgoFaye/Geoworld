@@ -32,4 +32,11 @@ Initié au lycée Léonard de Vinci - 77000 Melun
 ### Point d'entrée
 
 ![copie ecran](./images/projet-attendus.png)
-# Geoworld
+# DETAIL DES MODIFICATIONS APPORTÉES
+- Ajout de la colonne "Nom Local"
+ ![image](https://github.com/UgoFaye/Geoworld/assets/157604000/dc2016bb-746e-41a3-82c4-b24fa877ab19)
+
+code lié à la colonne :
+
+![image](https://github.com/UgoFaye/Geoworld/assets/157604000/89a04669-4e33-4583-b2df-160982d52302)
+
